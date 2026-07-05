@@ -1,0 +1,16 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    margin-bottom: -1px; /* Trik memotong 1px celah kosong di bawah */
+    line-height: 0;
+}
